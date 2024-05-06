@@ -6,12 +6,24 @@
 
 
 <img align="right" alt="coding" width="400"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimulhassan2001&label=Profile%20views&color=0e75b6&style=flat" alt="naimulhassan2001" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naimul-hassan-b48205288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naimul-hassan-b48205288" height="30" width="40" /></a>
 </p>
+
+
+- 🔭 I’m currently working on [Pull Up](https://github.com/bdCalling-Sdt-hub/Pull-Up.git)
+
+- 🌱 I’m currently learning **Flutter And Node js**
+
+- 💬 Ask me about **Flutter, dart, java, Android native Application**
+
+- 📫 How to reach me **developernaimul00@gmail.com**
+
+- ⚡ Fun fact I am funny😅
+
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimulhassan2001" alt="naimulhassan2001" /></a> </p>
 
@@ -44,6 +56,8 @@
   
 </p>
 <p align="left"> 
+
+
  
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimulhassan2001&show_icons=true&locale=en&layout=compact" alt="naimulhassan2001" /></p>
