@@ -12,14 +12,13 @@
 <a href="https://linkedin.com/in/naimul-hassan-b48205288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naimul-hassan-b48205288" height="30" width="40" /></a>
 </p>
 
+- 📫 How to reach me **developernaimul00@gmail.com**
 
 - 🔭 I’m currently working on [Pull Up](https://github.com/bdCalling-Sdt-hub/Pull-Up.git)
 
 - 🌱 I’m currently learning **Flutter And Node js**
 
 - 💬 Ask me about **Flutter, dart, java, Android native Application**
-
-- 📫 How to reach me **developernaimul00@gmail.com**
 
 - ⚡ Fun fact I am funny😅
 
