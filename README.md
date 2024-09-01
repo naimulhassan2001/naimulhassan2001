@@ -59,6 +59,7 @@
 
 <br/>
 
+## <img src="images/gato.gif" width="50" align="center"> 
 ## 💫 Languages and Tools:
 
  
