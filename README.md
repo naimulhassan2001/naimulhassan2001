@@ -1,8 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm MD. Naimul Hassan</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Naimul....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
-
-
 
 # 💫 About Me:
 
@@ -24,23 +26,33 @@
 
 <br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naimul-hassan-b48205288) 
+## 💫 Nice:
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimulhassan2001" alt="naimulhassan2001" /></a> </p>
 
 
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naimul-hassan-b48205288) 
+
+<br/>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=naimulhassan2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br/>
 
 ## 📈 Activity Graph:
 [![Raju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naimulhassan2001&theme=react-dark)](https://github.com/ahadhossainaiman/github-readme-activity-graph)
 
 
+<br/>
 
-
-
-# 💫 Languages and Tools:
+## 💫 Languages and Tools:
 
  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -66,13 +78,14 @@
 <p align="left"> 
 
 
- 
+ <br/>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimulhassan2001&show_icons=true&locale=en&layout=compact" alt="naimulhassan2001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimulhassan2001&show_icons=true&locale=en" alt="naimulhassan2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimulhassan2001&" alt="naimulhassan2001" /></p>
+<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
