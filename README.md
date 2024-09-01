@@ -28,6 +28,9 @@
 
 
 
+## 📈 Activity Graph:
+[![Raju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naimulhassan2001&theme=react-dark)](https://github.com/ahadhossainaiman/github-readme-activity-graph)
+
 
 
 
