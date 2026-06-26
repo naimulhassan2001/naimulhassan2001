@@ -119,18 +119,6 @@ I'm a **Flutter Developer** based in Dhaka, Bangladesh, focused on building clea
   <img src="https://github-profile-trophy.vercel.app/?username=md-naimul-hassan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [Flutter Chat App](https://github.com/md-naimul-hassan/flutter-chat-app) | Real-time messaging app | Flutter, Dart |
-| [Flutter Live Stream App](https://github.com/md-naimul-hassan/Flutter-Live-Stream-App-Video-SDk-) | Live video streaming with Video SDK | Flutter, Dart |
-| [E-commerce](https://github.com/md-naimul-hassan/E-commerce) | Shopping app UI & flow | Flutter, Dart |
-| [Express Server](https://github.com/md-naimul-hassan/express-server) | REST API backend starter | Node.js, Express |
-
-> 💡 *Tip: keep these four pinned, and give each repo a short description, topics, and a README with a screenshot so visitors instantly understand what they do.*
 
 ---
 
