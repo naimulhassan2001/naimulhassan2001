@@ -1,109 +1,155 @@
+<!--
+  GitHubUserName = md-naimul-hassan
+  Note: Markdown has no real variables. This username is used consistently
+  in every link and stats widget below. If you ever change your handle,
+  find-and-replace "md-naimul-hassan" to update everything at once.
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=MD%20Naim%20Mia&fontSize=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=70" alt="header" />
+</p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Naimul....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Naim+👋;Flutter+Developer+from+Bangladesh;Building+mobile+apps+with+Dart+%26+Firebase&center=true&size=26&width=800&height=50&color=0e75b6&vCenter=true&pause=1000" alt="Typing SVG" />
 </h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-# 💫 About Me:
-
-<img align="right" alt="coding" width="400"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimulhassan2001&label=Profile%20views&color=0e75b6&style=flat" alt="naimulhassan2001" /> </p>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/naimulhassan2001/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/naimulhassan2001"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://naimulhassan.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:developernaimul00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-
-- 📫 How to reach me **developernaimul00@gmail.com**
-
-- 🔭 I’m currently working on [Pull Up](https://github.com/bdCalling-Sdt-hub/Pull-Up.git)
-
-- 🌱 I’m currently learning **Flutter And Node js**
-
-- 💬 Ask me about **Flutter, dart, java, Android native Application**
-
-- ⚡ Fun fact I am funny😅
-
-<br/>
-
-## 💫 Nice:
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-
-<br/>
-
-
-## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
-
-<p align="left">
-  <a href="https://linkedin.com/in/naimul-hassan-b48205288" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="anaimul-hassan-b48205288" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/naimul.hassan.7359" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Naimul Hassan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-naimul-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<br/>
+---
 
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
+## 👨‍💻 About Me
 
+I'm a **Flutter Developer** based in Dhaka, Bangladesh, focused on building clean, responsive mobile applications. I currently work at **[@sparktechagency](https://github.com/sparktechagency)**, shipping cross-platform apps with Flutter, Dart, and Firebase.
 
+- 🔭 Currently building **[Pull Up](https://github.com/bdCalling-Sdt-hub/Pull-Up.git)**
+- 🌱 Currently expanding into **full-stack web** with React, Next.js & Node.js
+- 💬 Ask me about **Flutter, Dart, Firebase, React, and native Android**
+- 📫 Reach me at **developernaimul00@gmail.com**
+- ⚡ Fun fact: I genuinely enjoy meeting new people — say hi anytime!
 
-<br/>
+---
 
+## 🛠️ Tech Stack
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naimulhassan2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<br/>
-
-## 📈 Activity Graph:
-[![Raju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naimulhassan2001&theme=react-dark)](https://github.com/ahadhossainaiman/github-readme-activity-graph)
-
-
-<br/>
-
-
-## 💫 Languages and Tools:
-
- <br/>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-
-  
+**Mobile**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
 </p>
-<p align="left"> 
+<p>
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logoColor=white" alt="GetX" />
+  <img src="https://img.shields.io/badge/BLoC-0288D1?style=flat-square&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Provider-02569B?style=flat-square&logoColor=white" alt="Provider" />
+  <img src="https://img.shields.io/badge/Riverpod-3F51B5?style=flat-square&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/WebSocket-FF6F00?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/Push%20Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Push Notifications" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
+  <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square&logo=agora&logoColor=white" alt="Agora" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Video%20SDK-FF4081?style=flat-square&logoColor=white" alt="Video SDK" />
+  <img src="https://img.shields.io/badge/Audio%20%2F%20Video%20Call-EA4335?style=flat-square&logo=googlemeet&logoColor=white" alt="Audio Video Call" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps" />
+</p>
 
+**Frontend / Web**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+</p>
 
- <br/>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimulhassan2001&show_icons=true&locale=en&layout=compact" alt="naimulhassan2001" /></p>
+**Backend & Database**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimulhassan2001&show_icons=true&locale=en" alt="naimulhassan2001" /></p>
+**Tools & Platforms**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimulhassan2001&" alt="naimulhassan2001" /></p>
-<br/>
+> 🚀 **What I build:** real-time chat, live video streaming, e-commerce apps, and payment-integrated mobile products — built with clean architecture and reusable, maintainable code.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-naimul-hassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-naimul-hassan&layout=compact&theme=tokyonight&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-naimul-hassan&theme=tokyonight" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-naimul-hassan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [Flutter Chat App](https://github.com/md-naimul-hassan/flutter-chat-app) | Real-time messaging app | Flutter, Dart |
+| [Flutter Live Stream App](https://github.com/md-naimul-hassan/Flutter-Live-Stream-App-Video-SDk-) | Live video streaming with Video SDK | Flutter, Dart |
+| [E-commerce](https://github.com/md-naimul-hassan/E-commerce) | Shopping app UI & flow | Flutter, Dart |
+| [Express Server](https://github.com/md-naimul-hassan/express-server) | REST API backend starter | Node.js, Express |
+
+> 💡 *Tip: keep these four pinned, and give each repo a short description, topics, and a README with a screenshot so visitors instantly understand what they do.*
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  I love connecting with new people — whether it's about a project, a collaboration, or just to say hi!
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naimulhassan2001/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio.xpart.top"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:developernaimul00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="footer" />
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/md-naimul-hassan">md-naimul-hassan</a> — thanks for visiting!</i>
+</p>
